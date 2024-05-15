@@ -1,0 +1,14 @@
+Instructions:
+Login to switch
+Hit enter until all you see is enable prompts
+Clear PuTTY Scrollback
+enter "show interface"
+Page through all results
+Copy all to clipboard PuTTY command
+Paste in to VIM
+Execute Vim command ":source C:\<PATHtoSCRIPT>\SwitchScript.vim"
+Follow prompts
+Script will save CSV file in to script directory
+Open CSV
+Colorize all ports down for 3 or more weeks
+Savwe as XLS
